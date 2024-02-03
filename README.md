@@ -30,3 +30,5 @@ Project Outcomes:
 - To understand the reasons behind the declining net profit, I generated a financial report- that can be customized by product or market or segment. User can get the insight from any perspective they need.
 - I identified the solution to the company's substantial expenditure on operating costs and pinpointed annual losses.
 - Additionally, I identified the top five markets with losses, suggesting areas where the company should focus its efforts.
+
+  Project link : (https://github.com/themajbah/Finance-Metrics-Visualization-in-Power-BI/blob/main/Finance%20Performance%20Project%20(1).pdf)
