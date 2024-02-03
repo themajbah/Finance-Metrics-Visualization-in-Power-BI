@@ -31,4 +31,5 @@ Project Outcomes:
 - I identified the solution to the company's substantial expenditure on operating costs and pinpointed annual losses.
 - Additionally, I identified the top five markets with losses, suggesting areas where the company should focus its efforts.
 
-  Project link : (https://github.com/themajbah/Finance-Metrics-Visualization-in-Power-BI/blob/main/Finance%20Performance%20Project%20(1).pdf)
+Project link : (https://github.com/themajbah/Finance-Metrics-Visualization-in-Power-BI/blob/main/Finance%20Performance%20Project%20(1).pdf)
+Dashboard Link: https://app.powerbi.com/groups/e7729ff6-6730-4bb7-b3d3-b109e9c6ffc9/reports/6c1b3d43-df4c-42f8-905d-5e115904ca73/ReportSection605a3cc59430e5e3cd4a?experience=power-bi
